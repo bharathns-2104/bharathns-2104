@@ -14,7 +14,6 @@ Computer Science Student passionate about creating innovative solutions through 
 
 **Specializations:**
 - 🤖 Machine Learning & AI
-- 🎮 Unity Game Development
 - 🌐 Full-Stack Web Development
 - 📊 Data Analysis & EDA
 
@@ -24,11 +23,6 @@ Computer Science Student passionate about creating innovative solutions through 
 - **Description:** Intelligent note-taking application with ML features
 - **Tech Stack:** JavaScript, Machine Learning
 - **Highlights:** AI-powered content organization and smart recommendations
-
-### 🏀 Unity Basketball Game 
-- **Description:** Interactive sports simulation game
-- **Tech Stack:** Unity, C#
-- **Features:** Realistic physics, player controls, scoring system
 
 ### 📧 Email-Classifier
 - **Description:** ML model for email classification and filtering
