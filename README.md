@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Bharath NS! 👋
 
-<!--
-**bharathns-2104/bharathns-2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+Computer Science Student passionate about creating innovative solutions through code. I'm a Full-Stack Developer, ML Enthusiast, and Unity Game Developer with a strong foundation in multiple programming languages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+**Programming Languages:**
+- Java ☕
+- Python 🐍
+- JavaScript/TypeScript ⚡
+- C++ 🔧
+
+**Specializations:**
+- 🤖 Machine Learning & AI
+- 🎮 Unity Game Development
+- 🌐 Full-Stack Web Development
+- 📊 Data Analysis & EDA
+
+## 🚀 Featured Projects
+
+### 🧠 AI-Note-Making-App
+- **Description:** Intelligent note-taking application with ML features
+- **Tech Stack:** JavaScript, Machine Learning
+- **Highlights:** AI-powered content organization and smart recommendations
+
+### 🏀 Unity Basketball Game 
+- **Description:** Interactive sports simulation game
+- **Tech Stack:** Unity, C#
+- **Features:** Realistic physics, player controls, scoring system
+
+### 📧 Email-Classifier
+- **Description:** ML model for email classification and filtering
+- **Tech Stack:** Python, Scikit-learn, Pandas
+- **Accuracy:** High-performance text classification
+
+### 🏏 Batsmen-EDA
+- **Description:** Comprehensive data analysis of cricket batting statistics
+- **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
+- **Insights:** Statistical trends and performance patterns
+
+## 💡 Coding Journey
+
+- 🏆 **LeetCode:** Active problem solver - [Profile](https://leetcode.com/bharathns2104/)
+- 🥇 **HackerRank:** Continuous skill development - [Profile](https://www.hackerrank.com/bharathns2104)
+- 📚 **Learning:** Currently exploring advanced ML algorithms and game development
+
+## 📊 GitHub Stats
+
+![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharathns-2104&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharathns-2104&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌱 Current Focus
+
+- 🔭 Working on advanced AI projects and Unity games
+- 🌱 Learning advanced machine learning techniques
+- 👯 Looking to collaborate on open-source ML projects
+- 💬 Ask me about Java, Python, Unity, or Machine Learning
+
+## 📫 Let's Connect!
+
+- 🌐 **Location:** India
+- 💻 **LeetCode:** [bharathns2104](https://leetcode.com/bharathns2104/)
+- 🏅 **HackerRank:** [bharathns2104](https://www.hackerrank.com/bharathns2104)
+- 📧 **Student:** Computer Science
+
+---
+
+⭐️ **"Always learning, always building, always coding!"** 🚀
+
+Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities! 🤝
