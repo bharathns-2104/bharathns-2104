@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-Computer Science Student passionate about creating innovative solutions through code. I'm a Full-Stack Developer, ML Enthusiast, and Unity Game Developer with a strong foundation in multiple programming languages.
+Computer Science Student passionate about creating innovative solutions through code. I'm a Full-Stack Developer, ML Enthusiast with a strong foundation in multiple programming languages.
 
 ## 💻 Technical Skills
 
@@ -36,9 +36,9 @@ Computer Science Student passionate about creating innovative solutions through 
 
 ## 💡 Coding Journey
 
-- 🏆 **LeetCode:** Active problem solver - [Profile](https://leetcode.com/bharathns2104/)
-- 🥇 **HackerRank:** Continuous skill development - [Profile](https://www.hackerrank.com/bharathns2104)
-- 📚 **Learning:** Currently exploring advanced ML algorithms and game development
+- 🏆 **LeetCode:** Active problem solver - [Profile](https://leetcode.com/u/nsbharath04/)
+- 🥇 **HackerRank:** Continuous skill development - [Profile](https://www.hackerrank.com/profile/nsbharath04)
+- 📚 **Learning:** Currently exploring advanced ML algorithms and devops
 
 ## 📊 GitHub Stats
 
@@ -48,16 +48,16 @@ Computer Science Student passionate about creating innovative solutions through 
 
 ## 🌱 Current Focus
 
-- 🔭 Working on advanced AI projects and Unity games
+- 🔭 Working on advanced AI projects 
 - 🌱 Learning advanced machine learning techniques
 - 👯 Looking to collaborate on open-source ML projects
-- 💬 Ask me about Java, Python, Unity, or Machine Learning
+- 💬 Ask me about Java, Python or Machine Learning
 
 ## 📫 Let's Connect!
 
 - 🌐 **Location:** India
-- 💻 **LeetCode:** [bharathns2104](https://leetcode.com/bharathns2104/)
-- 🏅 **HackerRank:** [bharathns2104](https://www.hackerrank.com/bharathns2104)
+- 💻 **LeetCode:** [bharathns2104](https://leetcode.com/u/nsbharath04/)
+- 🏅 **HackerRank:** [bharathns2104](https://www.hackerrank.com/profile/nsbharath04)
 - 📧 **Student:** Computer Science
 
 ---
